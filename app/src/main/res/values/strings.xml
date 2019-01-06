@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">CurrConverter</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="symbols">
+        <item>AED</item>
+        <item>USD</item>
+        <item>INR</item>
+        <item>USD</item>
+        <item>GBP</item>
+    </string-array>
+    <string name="string_array">symbols</string>
+</resources>
